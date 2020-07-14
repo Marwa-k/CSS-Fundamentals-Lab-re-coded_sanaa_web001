@@ -3,10 +3,14 @@ body {
   height: 100%;
   margin: 0;
 }
-h1 ,nav {
-  color: red;
+header{
   text-align: center;
 }
+
+h1 {
+  color: red;
+}
+  
 img{
   display: block;
   margin: auto;
