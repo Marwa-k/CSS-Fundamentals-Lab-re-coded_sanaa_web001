@@ -22,11 +22,14 @@ figcaption{
 img{
   display: block;
   margin: auto;
-
 }
 #featured-property p
 { width: 800px;
   text-align: center;
   margin: auto;
+}
 
+#details
+{
+  display: block;
 }
