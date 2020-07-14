@@ -7,6 +7,8 @@ h1 ,nav {
   color: red;
   text-align: center;
 }
-figure{
+img{
+  display: block;
   margin: auto;
+  
 }
