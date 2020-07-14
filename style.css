@@ -26,5 +26,5 @@ img{
 }
 p#featured-property
 { width: 800px;
-  align-items: center;
+  text-align: center;
 }
