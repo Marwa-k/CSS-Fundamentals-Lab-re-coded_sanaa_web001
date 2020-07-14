@@ -32,10 +32,12 @@ img{
 #details
 {
   display: block;
+  
 }
 #details div
 {
  float: left;
  text-align: center;
  margin: auto;
+ background-color: red;
 }
